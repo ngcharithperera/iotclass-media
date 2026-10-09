@@ -1,0 +1,367 @@
+{
+ "tag": "models3d-characters-v1",
+ "what": "3D-print files (STL + 3MF, 80 mm) for all 22 IoTClass characters",
+ "tool": "Blender 4.5 LTS (procedural build from approved art; GPL-3.0 tool, output not GPL)",
+ "source_repo": "ngcharithperera/iotclass-characters (private; scripts under models3d/blender/)",
+ "licence": "(c) IoTClass.org CIC - free personal/classroom printing; no resale or redistribution (PRINT-LICENCE.txt)",
+ "files": [
+  {
+   "name": "PRINT-LICENCE.txt",
+   "sha256": "a7c5911795ce209400b9899411c612529f1287192d81fa6a922252aa6ed404a3",
+   "bytes": 698,
+   "mime": "text/plain"
+  },
+  {
+   "name": "ada.print.3mf",
+   "sha256": "3662dfae5bcf3bc600479cbd9c42d1d956a04645a40dcbb562d3c54efa217cc3",
+   "bytes": 17311504,
+   "mime": "model/3mf",
+   "character": "ada",
+   "height_mm": 80
+  },
+  {
+   "name": "ada.print.stl",
+   "sha256": "6902adbdc109e550646e335f559694d6581f79da5348b8925c6f449155e0af81",
+   "bytes": 59641484,
+   "mime": "model/stl",
+   "character": "ada",
+   "height_mm": 80
+  },
+  {
+   "name": "bex.print.3mf",
+   "sha256": "06fdd834a7f8c288407b0c67b3bb2534cd32d6992879b0e82b8cbd57d45caebd",
+   "bytes": 6678830,
+   "mime": "model/3mf",
+   "character": "bex",
+   "height_mm": 80
+  },
+  {
+   "name": "bex.print.stl",
+   "sha256": "9bdbc94a2b9b9e466c44c3beec0654fc406021717e6ae850399f5e315e297c36",
+   "bytes": 36021684,
+   "mime": "model/stl",
+   "character": "bex",
+   "height_mm": 80
+  },
+  {
+   "name": "bina.print.3mf",
+   "sha256": "076319cc4ea8d51e1c61b2a61032ecc6df609550f77551ddd45bf7f256644763",
+   "bytes": 6702211,
+   "mime": "model/3mf",
+   "character": "bina",
+   "height_mm": 80
+  },
+  {
+   "name": "bina.print.stl",
+   "sha256": "42d920e23747b0717983c31103c93ed093a8ed887707ffda6e5e8dbf0383aaad",
+   "bytes": 34079084,
+   "mime": "model/stl",
+   "character": "bina",
+   "height_mm": 80
+  },
+  {
+   "name": "bruno.print.3mf",
+   "sha256": "1305955522c051257ff593fec6aa53cf06190d0efa9a699c966ec7aeb47a111c",
+   "bytes": 4160534,
+   "mime": "model/3mf",
+   "character": "bruno",
+   "height_mm": 80
+  },
+  {
+   "name": "bruno.print.stl",
+   "sha256": "1631cc530f4f3d5dc611a50e3d2738b666539bb16d91c1d01f753301f51df3d4",
+   "bytes": 20815084,
+   "mime": "model/stl",
+   "character": "bruno",
+   "height_mm": 80
+  },
+  {
+   "name": "cloud-clara.print.3mf",
+   "sha256": "04946b9f3dc63ec68301fdc7a5fa332fa47a4ffef13146386987e900a4fb3905",
+   "bytes": 20858603,
+   "mime": "model/3mf",
+   "character": "cloud-clara",
+   "height_mm": 80
+  },
+  {
+   "name": "cloud-clara.print.stl",
+   "sha256": "e492205bc1b10597ac49573be09e4b5e5c4fad935c3ee3a274c786b8606b350d",
+   "bytes": 64148884,
+   "mime": "model/stl",
+   "character": "cloud-clara",
+   "height_mm": 80
+  },
+  {
+   "name": "dora.print.3mf",
+   "sha256": "dd57b64dbef92be5acda1209ee99089d39dc764150d21e1509291cf9d3a051fb",
+   "bytes": 6185073,
+   "mime": "model/3mf",
+   "character": "dora",
+   "height_mm": 80
+  },
+  {
+   "name": "dora.print.stl",
+   "sha256": "01345f8998ce194f947d61ece7702e066536b356ae78f3a9d71d4c054b34e816",
+   "bytes": 30414484,
+   "mime": "model/stl",
+   "character": "dora",
+   "height_mm": 80
+  },
+  {
+   "name": "eddie.print.3mf",
+   "sha256": "44820bc79e75cccc9017f2998933f54b1f4faef37680b64a8a1628be5c1e1052",
+   "bytes": 3795345,
+   "mime": "model/3mf",
+   "character": "eddie",
+   "height_mm": 80
+  },
+  {
+   "name": "eddie.print.stl",
+   "sha256": "5bb1fb6def324b9814f517f069d04ef9d3331bc97557b3c1b2193b3f5c6ad01c",
+   "bytes": 21832484,
+   "mime": "model/stl",
+   "character": "eddie",
+   "height_mm": 80
+  },
+  {
+   "name": "gateway-gus.print.3mf",
+   "sha256": "912c42e1beb616513a01c84226135aa1043efeaa0bfe83fde9374f7ffd3f99ea",
+   "bytes": 3397961,
+   "mime": "model/3mf",
+   "character": "gateway-gus",
+   "height_mm": 80
+  },
+  {
+   "name": "gateway-gus.print.stl",
+   "sha256": "ec3fb5f69ecb7b938f914b3fbc38f98b0c3d89dffb074ea6bc0d20c67410a2f8",
+   "bytes": 19741084,
+   "mime": "model/stl",
+   "character": "gateway-gus",
+   "height_mm": 80
+  },
+  {
+   "name": "light-lucy.print.3mf",
+   "sha256": "31eeb6e5ee1c3046dcaa76d9127fd1086766d4fe8ea4033432f2cc4a36a6e2f1",
+   "bytes": 2193517,
+   "mime": "model/3mf",
+   "character": "light-lucy",
+   "height_mm": 80
+  },
+  {
+   "name": "light-lucy.print.stl",
+   "sha256": "88b464f6638f8e028157da00c3efa3b8706e5300387403b0f95496e99f3a8dbc",
+   "bytes": 9924284,
+   "mime": "model/stl",
+   "character": "light-lucy",
+   "height_mm": 80
+  },
+  {
+   "name": "max.print.3mf",
+   "sha256": "d4880011a32f1ee00e4c63333ae2b87746ef1f40693674166944506ae85383d2",
+   "bytes": 2707501,
+   "mime": "model/3mf",
+   "character": "max",
+   "height_mm": 80
+  },
+  {
+   "name": "max.print.stl",
+   "sha256": "c18fe2d4f807d4c538fadcd33d286a725eb74d36816ff9411adf16e90a8e0955",
+   "bytes": 15112684,
+   "mime": "model/stl",
+   "character": "max",
+   "height_mm": 80
+  },
+  {
+   "name": "moisture-maya.print.3mf",
+   "sha256": "7e72ed1d9eaab405fe74afabb172142d933e09b137b7a83122ece45be0426bd2",
+   "bytes": 10391371,
+   "mime": "model/3mf",
+   "character": "moisture-maya",
+   "height_mm": 80
+  },
+  {
+   "name": "moisture-maya.print.stl",
+   "sha256": "31d9867a152f49e290807be4f44300b6c663b736b235c41eee637248d8fb221c",
+   "bytes": 32732284,
+   "mime": "model/stl",
+   "character": "moisture-maya",
+   "height_mm": 80
+  },
+  {
+   "name": "motion-marley.print.3mf",
+   "sha256": "48de156fda24d51d1e1223c0b9e8c796f34847bcd0758bb66e34a67be22ea3ed",
+   "bytes": 9630090,
+   "mime": "model/3mf",
+   "character": "motion-marley",
+   "height_mm": 80
+  },
+  {
+   "name": "motion-marley.print.stl",
+   "sha256": "b040e88c9b33e66ffb82d4f4658037ca8b5b467005a012ec9776dd6e4ecba986",
+   "bytes": 45359884,
+   "mime": "model/stl",
+   "character": "motion-marley",
+   "height_mm": 80
+  },
+  {
+   "name": "pete.print.3mf",
+   "sha256": "881f46433ce12d6da02e02cd3bf56736ba5f54642b5155f021a108db88ff63c1",
+   "bytes": 5901779,
+   "mime": "model/3mf",
+   "character": "pete",
+   "height_mm": 80
+  },
+  {
+   "name": "pete.print.stl",
+   "sha256": "e52b77da0b883d50c40acd8f7302bcdb05d7e58377b37b64d4d12680dacec3d3",
+   "bytes": 33968884,
+   "mime": "model/stl",
+   "character": "pete",
+   "height_mm": 80
+  },
+  {
+   "name": "phoebe.print.3mf",
+   "sha256": "d0655ad445bfa114665b577ea11821741fb3aea9e05762dc24c9cdc536de27d9",
+   "bytes": 2253258,
+   "mime": "model/3mf",
+   "character": "phoebe",
+   "height_mm": 80
+  },
+  {
+   "name": "phoebe.print.stl",
+   "sha256": "e419e46461c52c54bceb393cf4b72f0f732edf046a47017b7907f881e1a5a989",
+   "bytes": 10580584,
+   "mime": "model/stl",
+   "character": "phoebe",
+   "height_mm": 80
+  },
+  {
+   "name": "priya.print.3mf",
+   "sha256": "d94b72bd88ebcba13284403c86b980792cd5e511e34e8971f7eaab75201b8b75",
+   "bytes": 3901689,
+   "mime": "model/3mf",
+   "character": "priya",
+   "height_mm": 80
+  },
+  {
+   "name": "priya.print.stl",
+   "sha256": "0e8b9c1862550245a03c93631a7db8155d33e324fd76c594debdf7dc9af4f497",
+   "bytes": 17629084,
+   "mime": "model/stl",
+   "character": "priya",
+   "height_mm": 80
+  },
+  {
+   "name": "remi.print.3mf",
+   "sha256": "defa34c7015df71b09ae5570e814b1aed4fd0e32846392daaef836286caecb88",
+   "bytes": 2919717,
+   "mime": "model/3mf",
+   "character": "remi",
+   "height_mm": 80
+  },
+  {
+   "name": "remi.print.stl",
+   "sha256": "078211a43e5491124fc724d5fe0eb7a215696873392c23b2cf8e3604963759a0",
+   "bytes": 16640084,
+   "mime": "model/stl",
+   "character": "remi",
+   "height_mm": 80
+  },
+  {
+   "name": "sammy.print.3mf",
+   "sha256": "828d8760ea9ca77d7e83152d2cb734c40577213578ac7469056bed792b7fad26",
+   "bytes": 7778608,
+   "mime": "model/3mf",
+   "character": "sammy",
+   "height_mm": 80
+  },
+  {
+   "name": "sammy.print.stl",
+   "sha256": "9341132afc25ff2ca31e69cdb55fd9a4884bdea1ac857781052eef2406767435",
+   "bytes": 34828684,
+   "mime": "model/stl",
+   "character": "sammy",
+   "height_mm": 80
+  },
+  {
+   "name": "shelly.print.3mf",
+   "sha256": "c110e2cf83eb166f77f48768e5d3ca1d797904414eedd63551305dce03732f08",
+   "bytes": 11390455,
+   "mime": "model/3mf",
+   "character": "shelly",
+   "height_mm": 80
+  },
+  {
+   "name": "shelly.print.stl",
+   "sha256": "1442cf2ac713881b981192390fb1e2fb21aabb62d237a18953c7fd5a6820256b",
+   "bytes": 53483284,
+   "mime": "model/stl",
+   "character": "shelly",
+   "height_mm": 80
+  },
+  {
+   "name": "temperature-terry.print.3mf",
+   "sha256": "e6f046242e3ade5b584fdab95092a1548c6b4e5a7bbd7bd2619867baed5a8767",
+   "bytes": 4872021,
+   "mime": "model/3mf",
+   "character": "temperature-terry",
+   "height_mm": 80
+  },
+  {
+   "name": "temperature-terry.print.stl",
+   "sha256": "3b93cb5b1c96316218b5ee22dd1968353686fdfcc7767954fc1ea2106a3d46f9",
+   "bytes": 23566884,
+   "mime": "model/stl",
+   "character": "temperature-terry",
+   "height_mm": 80
+  },
+  {
+   "name": "tessa.print.3mf",
+   "sha256": "c9c8466f7d17fcddef92b764cbb0d806c650edf201dafc2f665b4b730e2fd3f3",
+   "bytes": 3340630,
+   "mime": "model/3mf",
+   "character": "tessa",
+   "height_mm": 80
+  },
+  {
+   "name": "tessa.print.stl",
+   "sha256": "5c7a1a00d4fd9f1bb2692b0e2929ffe991f08920ce2e9b2cfd521205ce3ed58e",
+   "bytes": 19288284,
+   "mime": "model/stl",
+   "character": "tessa",
+   "height_mm": 80
+  },
+  {
+   "name": "uma.print.3mf",
+   "sha256": "78af761864b776fe8a6f68102bb08ec3d1c324c418a5c3b837fcac696643f7bb",
+   "bytes": 3359314,
+   "mime": "model/3mf",
+   "character": "uma",
+   "height_mm": 80
+  },
+  {
+   "name": "uma.print.stl",
+   "sha256": "2b580fd403d4893891cb86d0c6a7abf3dfca44699ffa6def1acc32e7d1ca4392",
+   "bytes": 19329684,
+   "mime": "model/stl",
+   "character": "uma",
+   "height_mm": 80
+  },
+  {
+   "name": "vera.print.3mf",
+   "sha256": "a20ff67a34840102986b840f08061cc3e06a3faa55132c7219892da37d3591dd",
+   "bytes": 4094147,
+   "mime": "model/3mf",
+   "character": "vera",
+   "height_mm": 80
+  },
+  {
+   "name": "vera.print.stl",
+   "sha256": "3c6ce02f64bb04b0a4b2d93030349a845734a123cfe2beab3a156e705379d29e",
+   "bytes": 23384284,
+   "mime": "model/stl",
+   "character": "vera",
+   "height_mm": 80
+  }
+ ]
+}
